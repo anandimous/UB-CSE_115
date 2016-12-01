@@ -16,3 +16,5 @@ Due to the academic nature of this content, anyone who might be affected by this
 Aniruddha Nandi | B.S. Computer Science at University at Buffalo(SUNY) | Class of 2019
 
 ![alt tag](https://raw.githubusercontent.com/docker/dockercraft/master/docs/img/contribute.png)
+
+Image ©Docker
