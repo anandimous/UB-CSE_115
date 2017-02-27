@@ -1,7 +1,7 @@
 # UB-CSE_115
 This repo includes some of the labs that I did during Intro to Computer Science Part 1 class that I took during the Fall 2015 at UB. Includes conceptual practise and implementation of ActionListeners, EventHandlers, GUI Operations and configurations & raw Implementation of save/restore functionality. 
 
-<strong>PLEASE note that these assignments were to demonstrate somw of the underlying concepts in computer science and thus, only touches upon the topics mentioned. Also, since these are for demo purposes only, none of them are fully functional applets/ applications & have been implemented based on very specific instructions.</strong>
+<strong>PLEASE note that these assignments were to demonstrate some of the underlying concepts in computer science and thus, only touches upon the topics mentioned. Also, since these are for demo purposes only, none of them are fully functional applets/ applications & have been implemented based on very specific instructions.</strong>
 
 # License
 
