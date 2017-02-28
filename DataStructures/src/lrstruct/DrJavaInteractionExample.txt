@@ -1,0 +1,30 @@
+Welcome to DrJava.
+> lrstruct.LRStruct<String> list;
+> list = new lrstruct.LRStruct<String>();
+> list
+()
+> list.insertFront("Fred");
+> list
+(Fred)
+> list.getDatum()
+"Fred"
+> list.getRest()
+()
+> list.insertFront("Wilma");
+> list
+(Wilma Fred)
+> list.getDatum()
+"Wilma"
+> list.getRest()
+(Fred)
+> list.getRest().getDatum()
+"Fred"
+> list.getRest().getRest()
+()
+> list
+(Wilma Fred)
+> list.getRest().getRest().insertFront("Pebbles")
+(Pebbles)
+> list
+(Wilma Fred Pebbles)
+> 

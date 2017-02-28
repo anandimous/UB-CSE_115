@@ -1,0 +1,12 @@
+	
+	public static void main(String[] args) {
+		javax.swing.JFrame f;
+		f = new javax.swing.JFrame("A container");
+
+		javax.swing.JButton b;
+		b = new javax.swing.JButton("A component");
+		
+		f.add(b);
+		f.setVisible(true);
+	}
+

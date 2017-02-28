@@ -1,0 +1,35 @@
+
+//	public static void main(String[] args) {
+//		BSTArray<Integer> t = new BSTArray<Integer>();
+//		t.insert(20).insert(10).insert(5).insert(15).insert(40).insert(53).insert(57);
+//		System.out.println("t is " + t);
+////		for (Integer i : t) {
+////			System.out.println("i is "+i);
+////		}
+//		System.out.println(" PRE: "+t.preOrder());
+//		System.out.println("  IN: "+t.inOrder());
+//		System.out.println("POST: "+t.postOrder());
+//	}
+//	private class BSTLevelOrderIterator implements Iterator<E> {
+//	
+//	private int _index;
+//	
+//	public BSTIterator() {
+//		_index = 1;
+//	}
+//	@Override public boolean hasNext() {
+//		return _index < _store.length && _store[_index] != null;
+//	}
+//	@Override public E next() {
+//		Entry<E> value = _store[_index++];
+//		while (_index < _store.length && _store[_index] == null) {
+////			System.out.println("iterator: "+_index);
+//			_index++;
+//		}
+//		return value.key;
+//	}
+//	@Override public void remove() {
+//		throw new UnsupportedOperationException();
+//	}
+//
+//}
